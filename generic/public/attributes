@@ -335,6 +335,12 @@ attribute vendor_hal_cacert_qti;
 attribute vendor_hal_cacert_qti_client;
 attribute vendor_hal_cacert_qti_server;
 
+attribute vendor_hal_qvrcamservice_qti;
+attribute vendor_hal_qvrcamservice_qti_client;
+attribute vendor_hal_qvrcamservice_qti_server;
+attribute vendor_hal_qvrcamservice_qti_socket_client;
+attribute vendor_hal_qvrcamservice_qti_socket_fd_use_client;
+
 #attributes for aks gamepad hal
 attribute hal_gamepad;
 attribute hal_gamepad_client;
